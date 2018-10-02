@@ -79,7 +79,7 @@ Type "sudo pip install Django". This installs Django distribution on your virtua
 **Step-6**: Running the Django project
 Type "python manage.py runserver" to run the project.
 
-And Thats about all you would need to know to get you started.Cheers!!
+And that's about all you would need to know to get you started.Cheers!!
 
 ### Technologies Used : 
 1.Web Framework : Django<br>
